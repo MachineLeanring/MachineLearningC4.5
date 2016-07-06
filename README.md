@@ -37,4 +37,4 @@ OutLook
 
 -----------------------------------
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　本人CSDN博客 [点击链接](http://blog.csdn.net/lemon_tree12138)
+本代码博客地址： [决策树之 C4.5 算法](http://blog.csdn.net/lemon_tree12138/article/details/51840361)

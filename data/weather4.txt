@@ -1,6 +1,0 @@
-Day Temperature Humidity Windy PlayGolf
-1 85 85 False No
-2 80 90 True No
-3 75 70 True Yes
-4 72 95 False No
-5 69 70 False Yes

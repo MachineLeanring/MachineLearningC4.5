@@ -16,7 +16,7 @@ public class C45Client {
     }
     
     private void start() throws IOException {
-        List<List<String>> rawData = DecisionTreeUtils.getTrainingData("./data/weather3.txt");
+        List<List<String>> rawData = DecisionTreeUtils.getTrainingData("./data/PlayGolf.txt");
         C45Utils.transformContinuouslyVariables(rawData);
         C45Core core = new C45Core();
         createDecisionTree(core, rawData);

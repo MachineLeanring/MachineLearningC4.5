@@ -225,5 +225,4 @@ public class C45Core {
         
         return map;
     }
-    
 }
